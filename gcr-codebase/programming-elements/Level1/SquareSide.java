@@ -4,7 +4,7 @@ import java.util.Scanner;
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
-        //parameter you read from user and take side of (sqaure=perimeter/4) //
+        //parameter you read from user and take formula: (sqaure=perimeter/4) //
         System.out.print("Enter the perimeter of square ");
         double perimeter= sc.nextDouble();
 		double side= perimeter/4;
