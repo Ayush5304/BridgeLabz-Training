@@ -12,4 +12,4 @@ import java.util.Scanner;
 		System.out.println("The length of the side is:" + side + "whose perimeter is :"+ perimeter);
 		sc.close();
 		}
-		}
+	}
