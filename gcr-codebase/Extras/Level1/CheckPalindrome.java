@@ -1,24 +1,22 @@
 
 
-//a Java program to check if a given string is a palindrome (a string that reads thesame forward and backward)
+//a Java program to remove all duplicate characters from a given string and returnthe modified string
 
 import java.util.Scanner;
 
-// make a class checkpalindrome
-public class CheckPalindrome{
-public static boolean palindromeOrNot(String input){
+// make a class RemoveDuplicate
+public class RemoveDuplicate{
+public static String duplicate(String input){
           String result="";
 		  
 	// take a for loop to store each character 
-        for(int i=input.length()-1; i>=0; i--){
-        result+= input.charAt(i);
+        for(int i=0; i<input.length(); i++){
+        char ch= input.charAt(i);
+	  if(result.indexof(ch)=-1){
+		  result+=ch;
+	  }
 		}
-       if (result.equals(input)){
-		   return true;
-	   }
- 
-		   return false;
-	   
+		return result;
 }
 public static void main (String [] args){
 Scanner sc= new Scanner(System.in);
@@ -28,15 +26,11 @@ System.out.println("enter a string");
 String input = sc.nextLine();
       
 	  //make a method to call 
-	  boolean CP = palindromeOrNot(input);
+	  STRING RD = String duplicate(String input);
 	   
 	   // display the output
-	   if(CP==true){
-	   System.out.println("string is a palindrome");
-	   }
-	   else{
-		    System.out.println("string is not a palindrome");
-		
-		}
+	  
+	   System.out.println(" after removing duplicate"+ RD);
+	   	  
 }
 }
