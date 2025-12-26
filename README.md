@@ -115,6 +115,10 @@ BridgeLabz-Training/
 
 ---
 
+### 📅 Week 2: Core Java Practice, Problem Solving & OOPS
+
+---
+
 ### 🗓 Day 7 – Built-in Functions & Extra Practice  
 **(Date: 23-Dec-2025)**
 
