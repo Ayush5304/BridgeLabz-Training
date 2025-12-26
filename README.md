@@ -149,3 +149,22 @@ BridgeLabz-Training/
 
 🔗 **Code Link:**  
 👉 [Day 8 – Scenario-Based Problems ](https://github.com/Ayush5304/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
+
+---
+
+### 🗓 Day 9 – OOPS Concepts & Eclipse IDE Setup
+**(Date: 26-Dec-2025)**
+
+- Created a new branch named java-oops-practice.
+- Set up Eclipse IDE for Java Developers. 
+- Practiced Object-Oriented Programming concepts.
+- Implemented OOPS-based Java programs using:
+  - Classes and Objects
+  - Constructors
+  - Methods
+- Organized OOPS programs into a separate branch.
+- Committed and pushed all changes successfully.
+
+🔗 **Code Link:**  
+👉 [Day 9 – OOPS Concepts ](https://github.com/Ayush5304/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept)
+
