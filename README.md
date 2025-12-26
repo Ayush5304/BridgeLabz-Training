@@ -129,3 +129,23 @@ BridgeLabz-Training/
 
 🔗 **Code Link:**  
 👉 [Day 7 – Built-in Functions](https://github.com/Ayush5304/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/Extras)
+
+---
+
+### 🗓 Day 8 – Scenario-Based Problems & LeetCode-Based Questions
+**(Date: 24-Dec-2025)**
+
+- Solved real-world, scenario-based Java problems.
+- Practiced LeetCode-based questions to strengthen logical thinking.
+- Implemented programs such as:
+  - Coffee Counter Billing System
+  - BMI Fitness Tracker
+- Applied Core Java concepts including:
+  - Variables and primitive data types
+  -  Conditional logic (if-else, switch)
+  -  Loops (while)
+- Followed clean coding practices with proper naming and comments.
+- Committed and pushed all changes successfully.
+
+🔗 **Code Link:**  
+👉 [Day 8 – Scenario-Based Problems ](https://github.com/Ayush5304/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
