@@ -95,6 +95,10 @@ BridgeLabz-Training/
 
 ---
 
+### 📅 Week 2: Core Java Practice, Problem Solving & OOPS
+
+---
+
 ### 🗓 Day 6 – Strings & Methods  
 **(Date: 22-Dec-2025)**
 
