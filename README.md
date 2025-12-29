@@ -1,6 +1,6 @@
 
 
-### 🗓 Day 9 – OOPS Concepts & Eclipse IDE Setup
+### 🗓 Day 1 – OOPS Concepts & Eclipse IDE Setup
 **(Date: 26-Dec-2025)**
 
 - Created a new branch named java-oops-practice.
@@ -14,11 +14,11 @@
 - Committed and pushed all changes successfully.
 
 🔗 **Code Link:**  
-👉 [Day 9 – OOPS Concepts ](https://github.com/Ayush5304/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept)
+👉 [Day 1 – OOPS Concepts ](https://github.com/Ayush5304/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept)
 
 ---
 
-### Day 10 – Constructors & Access Modifiers  
+### Day 2 – Constructors & Access Modifiers  
 **(Date: 27-Dec-2025)**Learned core OOP concepts in Java:
 - Constructors in Java
   - Default Constructor
@@ -41,4 +41,22 @@ Improved understanding of:
 Committed and pushed all changes successfully.
 
 🔗 Code Link:  
-👉 [Day 10 – Constructors & Access Modifiers](https://github.com/Ayush5304/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/constructorsandaccessmodifiers)
+👉 [Day 2 – Constructors & Access Modifiers](https://github.com/Ayush5304/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/constructorsandaccessmodifiers)
+
+---
+
+### 🗓 Day 3 – Core Java Keywords & Scenario-Based Problems
+**(Date: 29-Dec-2025)**
+
+- Studied Core Java keywords:
+  - this keyword
+  - static keyword.
+  - final keyword
+- Practiced scenario-based Core Java problems:
+- Applied concepts using:
+  - for, for-each, while, do-while loops
+  -  if-else and switch-case statements
+- Improved logic building through real-world problem scenarios.  
+
+🔗 **Code Link:**  
+👉 [Day 3 –  Core Java Keywords ](https://github.com/Ayush5304/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/keywords)
