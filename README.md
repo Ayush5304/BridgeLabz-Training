@@ -174,7 +174,7 @@ BridgeLabz-Training/
 
 ---
 
-### Day 10 – Constructors & Access Modifiers  
+### 🗓 Day 10 – Constructors & Access Modifiers  
 **(Date: 27-Dec-2025)**Learned core OOP concepts in Java:
 - Constructors in Java
   - Default Constructor
