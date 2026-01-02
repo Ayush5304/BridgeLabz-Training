@@ -1,5 +1,27 @@
 ## 📘 DSA(Data Structure and Algorithms)
 
+## 📂 DSA Practice – Project Structure
+
+```text
+BridgeLabz-Training/
+│
+├── dsa-practice/
+│   │
+│   ├── gcr-codebase/
+│   │   └── JavaDsaPractice/
+│   │       └── src/
+│   │           └── com/
+│   │               └── (Core DSA implementations)
+│   │
+│   ├── leetcode-based-codebase/
+│   │   └── (LeetCode problem solutions)
+│   │
+│   ├── scenario-based-codebase/
+│   │   └── (Real-world DSA scenario problems)
+│   │
+│   └── README.md
+```
+
 ---
 
 ### 📅 Day 1 – Data Structures Overview
