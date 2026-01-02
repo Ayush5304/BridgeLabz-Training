@@ -1,4 +1,4 @@
-## 📘 DSA & Java OOP Practice – Progress Log
+## 📘 DSA(Data Structure and Algorithms)
 
 ---
 
