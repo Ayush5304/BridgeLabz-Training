@@ -2,29 +2,28 @@
 ### 🗓 Day 1 – OOPS Concepts & Eclipse IDE Setup
 **(Date: 26-Dec-2025)**
 
-java-oops-practice
+## 📂 Project Structure
+
+```text
+BridgeLabz-Training/
 │
-├── gcr-codebase
+├── java-oops-practice/
 │   │
-│   └── JavaOopsConcept
-│       │
-│       ├── diagrams
-│       │
-│       └── src
-│           │
-│           └── com
-│               └── (OOPS concept based packages & classes)
-│
-├── scenario-based-codebase
+│   ├── gcr-codebase/
+│   │   └── JavaOopsConcept/
+│   │       ├── diagrams/
+│   │       └── src/
+│   │           └── com/
+│   │               └── (Core Java OOPS concepts)
 │   │
-│   └── JavaScenarioBased
-│       │
-│       └── src
-│           │
-│           └── com
-│               └── (Scenario based OOPS problems)
-│
-└── README.md
+│   ├── scenario-based-codebase/
+│   │   └── JavaScenarioBased/
+│   │       └── src/
+│   │           └── com/
+│   │               └── (Scenario based OOPS problems)
+│   │
+│   └── README.md
+```
 
 - Created a new branch named java-oops-practice.
 - Set up Eclipse IDE for Java Developers. 
