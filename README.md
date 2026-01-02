@@ -2,6 +2,30 @@
 ### 🗓 Day 1 – OOPS Concepts & Eclipse IDE Setup
 **(Date: 26-Dec-2025)**
 
+java-oops-practice
+│
+├── gcr-codebase
+│   │
+│   └── JavaOopsConcept
+│       │
+│       ├── diagrams
+│       │
+│       └── src
+│           │
+│           └── com
+│               └── (OOPS concept based packages & classes)
+│
+├── scenario-based-codebase
+│   │
+│   └── JavaScenarioBased
+│       │
+│       └── src
+│           │
+│           └── com
+│               └── (Scenario based OOPS problems)
+│
+└── README.md
+
 - Created a new branch named java-oops-practice.
 - Set up Eclipse IDE for Java Developers. 
 - Practiced Object-Oriented Programming concepts.
