@@ -1,4 +1,4 @@
-package com.stack.ImplementaQueueUsingStacks;
+package com.stackandqueue.ImplementaQueueUsingStacks;
 
 public class QueueMain {
     public static void main(String[] args) {
