@@ -39,3 +39,22 @@ BridgeLabz-Training/
 
  🔗 Code Links:
 👉 [Day 1-  LinkedList](https://github.com/Ayush5304/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaPractice/src/com/linkedlist)
+
+
+---
+
+### 📅 Day 2 – Stacks, Queues & Hashing
+**(Date: 03-Jan-2026)**  
+**Branch:** `dsa-practice`
+
+- Covered Stacks, Queues & Hash Maps
+- Applied best practices for stack safety & FIFO handling
+- Used Deque and HashMap for optimized solutions
+- Practiced O(n) DSA problems
+- Followed clean logic–main class separation
+
+  🔗 Code Links:
+👉 [Day 2 -  Stacks, Queues](https://github.com/Ayush5304/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaPractice/src/com/stackandqueue)
+👉 [hashmapandhashfunctions](https://github.com/Ayush5304/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaPractice/src/com/hashmapandhashfunctions)
+
+
