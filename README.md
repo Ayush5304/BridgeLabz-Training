@@ -1,5 +1,4 @@
 # BridgeLabz-Training
-### 📅 Week 1: Git, GitHub & Java Programming Fundamentals
 
 ---
 
@@ -115,10 +114,6 @@ BridgeLabz-Training/
 
 ---
 
-### 📅 Week 2: Core Java Practice, Problem Solving & OOPS
-
----
-
 ### 🗓 Day 7 – Built-in Functions & Extra Practice  
 **(Date: 23-Dec-2025)**
 
@@ -221,6 +216,7 @@ Committed and pushed all changes successfully.
 👉 [Scenario-Based Problems](https://github.com/Ayush5304/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase/Day3)
 
 ---
+
 
 ### 🗓 Day 12 – Object Modeling & Scenario-Based Programs  
 **(Date: 30-Dec-2025)** 
