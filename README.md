@@ -234,7 +234,7 @@ Practiced real-world scenarios to strengthen **Core OOP Concepts**:
 
 ---
 
-### 📅 Day 18 – Java I/O Streams, String Optimization & Search Algorithms  
+### 📅 Day 10 – Java I/O Streams, String Optimization & Search Algorithms  
 **(Date: 06-Jan-2026)**  
 ### 🔹 Scenario-Based OOP Practice (Java)
 **Branch:** `java-oops-practice`
