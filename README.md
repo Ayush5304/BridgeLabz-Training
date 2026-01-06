@@ -62,7 +62,7 @@ BridgeLabz-Training/
 
 ---
 
-### 📅 Day 3 – Sorting Algorithms & Scenario-Based OOP
+### 📅 Day 3 – Sorting Algorithms 
 **(Date: 05-Jan-2026)**  
 **Branch:** `dsa-practice` 
 
