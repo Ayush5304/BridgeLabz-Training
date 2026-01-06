@@ -154,3 +154,83 @@ BridgeLabz-Training/
 🔗 **Code Link:**  
 👉 [Day 8 – Scenario-Based Problems ](https://github.com/Ayush5304/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
 
+---
+
+### 🗓 Day 9 – Scenario Based Practice   
+**(Date: 29-Dec-2025)**  
+
+Practiced Java fundamentals using real-life, scenario-based problems.
+
+#### Problems Solved:
+- 🛍️ **Shopkeeper’s Discount Dashboard**  
+  Used `for-loop` and `if-else` to calculate discounts.
+
+- 🚍 **School Bus Attendance System**  
+  Implemented `for-each` loop to track present and absent students.
+
+- 📱 **Phone Recharge Simulator**  
+  Used `switch` and loops to manage recharges and balances.
+
+- 🚗 **Parking Lot Gate System**  
+  Menu-driven program using `switch-case` and `while` loop.
+
+- 🎲 **Number Guessing Game**  
+  Implemented `do-while` loop with hints and attempt limits.
+
+🔗 **Code Link:**  
+👉 [Day 9 – Scenarios based practice](https://github.com/Ayush5304/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase/Day3)
+
+---
+
+### 🗓 Day 10 – Scenario Based Practice  
+**(Date: 30-Dec-2025)**  
+
+Focused on arrays, loops, and control flow through advanced scenarios.
+
+#### Problems Solved:
+- 🎬 **Movie Ticket Booking App**  
+  Combined `switch` and `if` with loops for multiple users.
+
+- 📚 **Rohan’s Library Reminder App**  
+  Calculated late return fines using conditional logic.
+
+- 🌡️ **Temperature Logger**  
+  Used arrays to compute average and maximum temperature.
+
+- 🚆 **Train Reservation Queue**  
+  Ticket booking simulation using `while`, `switch`, and `break`.
+
+- 🏋️ **Sandeep’s Fitness Challenge Tracker**  
+  Weekly tracking using `for-each`, `continue`, and averages.
+
+🔗 **Code Link:**  
+👉 [Day 10 – Scenarios based practice](https://github.com/Ayush5304/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase/Day4)
+
+---
+
+### 🗓 Day 11 –  Scenario-Based Practice  
+**(Date: 31-Dec-2025)**  
+
+#### 🔹 Core Java Practice (`core-java-practice`)
+Solved **real-world scenario-based problems** focusing on loops, conditionals, switch cases, and control flow.
+
+**Problems Implemented:**
+- ⏱️ **Digital Watch Simulation**  
+  Simulated a 24-hour clock using nested loops and stopped execution at 13:00 using `break`.
+
+- 🧠 **Online Quiz Application**  
+  Implemented an MCQ-based quiz using arrays, `for-loop`, and `switch` for answer validation with score tracking.
+
+- 💱 **Currency Exchange Kiosk**  
+  Converted INR to different currencies using `switch` and repeated conversions using `do-while`.
+
+- 🚌 **Bus Route Distance Tracker**  
+  Tracked total distance across stops using `while-loop` and exited based on user confirmation.
+
+- 🎉 **Festival Lucky Draw**  
+  Checked winning conditions using modulus operator with input validation and `continue`.
+
+Emphasis on clean code structure, proper indentation, and logical flow.
+
+🔗 **Code Link:**  
+👉 [Day 11 –  Scenario based Practice](https://github.com/Ayush5304/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase/Day5)
