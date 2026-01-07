@@ -1,5 +1,11 @@
 # BridgeLabz-Training
 
+This repository documents my **day-wise learning journey at BridgeLabz-Training**, covering:
+- Core Java fundamentals
+- Object-Oriented Programming (OOP)
+- Data Structures & Algorithms (DSA)
+- Real-world scenario-based problem solving
+  
 ---
 
 ### 🗓 Day 1 – Git & GitHub Setup  
@@ -39,8 +45,7 @@ BridgeLabz-Training/
 
 ---
 
-## Week 1- Core Java Programming
-
+## 📘 Week 1 – Core Java Programming
 ---
 
 ### 🗓 Day 3 – Programming Elements in Java  
@@ -80,7 +85,7 @@ BridgeLabz-Training/
 
 ---
 
-### 🗓 Day 5 – Arrays & Basic Problem Solving  
+### 🗓 Day 5 – Arrays 
 **(Date: 20-Dec-2025)**
 
 - Studied arrays in Java:
@@ -118,7 +123,7 @@ BridgeLabz-Training/
 
 ---
 
-### 🗓 Day 7 – Built-in Functions & Extra Practice  
+### 🗓 Day 7 – Built-in Functions 
 **(Date: 23-Dec-2025)**
 
 - Practiced Java built-in functions.
@@ -155,15 +160,14 @@ BridgeLabz-Training/
 
 ---
 
- ## Week 2- Object-Oriented Programming
-
+## 🧠 Week 2 – Object-Oriented Programming (Java)
 ---
 
 ### 🗓 Day 9 – OOPS Concepts & Eclipse IDE Setup
 **(Date: 26-Dec-2025)**
 
 - Created a new branch named java-oops-practice.
-- Set up Eclipse IDE for Java Developers. 
+- Eclipse IDE setup.
 - Practiced Object-Oriented Programming concepts.
 - Implemented OOPS-based Java programs using:
   - Classes and Objects
@@ -179,6 +183,7 @@ BridgeLabz-Training/
 
 ### 🗓 Day 10 – Constructors & Access Modifiers  
 **(Date: 27-Dec-2025)**
+
 - Learned core OOP concepts in Java:
 - Constructors in Java
   - Default Constructor
@@ -197,8 +202,6 @@ Improved understanding of:
 - Object initialization
 - Data encapsulation
 - Code structure and reusability
-
-Committed and pushed all changes successfully.
 
 🔗 Code Link:  
 👉 [Day 10 – Constructors & Access Modifiers](https://github.com/Ayush5304/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/constructorsandaccessmodifiers)
@@ -229,7 +232,7 @@ Committed and pushed all changes successfully.
 ### 🗓 Day 12 – Object Modeling & Scenario-Based Programs  
 **(Date: 30-Dec-2025)** 
 
-#### 🔹 Java OOPS Practice (`java-oops-practice`)
+####  Java OOPS Practice (`java-oops-practice`)
 Learned **Object Modeling** concepts and object communication in Java.
 
 **Topics Covered:**
@@ -240,7 +243,7 @@ Learned **Object Modeling** concepts and object communication in Java.
   - Object Diagram
   - Sequence Diagram
 
-#### 🔹 Core Java Practice (`core-java-practice`)
+####  Core Java Practice (`core-java-practice`)
 Solved multiple **scenario-based problems** to strengthen control flow and logic building.
 
 **Problems Implemented:**
@@ -261,7 +264,7 @@ Focused on clean structure, proper variable naming, and modular logic.
 ### 🗓 Day 13 – Java Inheritance & OOPS Hierarchies
 **(Date: 31-Dec-2025)** 
 
-#### 🔹 Java OOPS Practice (`java-oops-practice`)
+####  Java OOPS Practice (`java-oops-practice`)
 Learned Inheritance in Java and its role in OOPS.
 
 **Topics Covered:**
@@ -270,7 +273,7 @@ Learned Inheritance in Java and its role in OOPS.
 - Understood access modifiers and their behavior in inheritance
 - Modeled real-world hierarchies (Animal, Employee, Vehicle, Bank, Restaurant)
   
-#### 🔹 Core Java Practice (`core-java-practice`)
+####  Core Java Practice (`core-java-practice`)
 Solved scenario-based programs using loops, switch, and conditionals
 
 **Problems Implemented:**
@@ -288,12 +291,10 @@ Focused on control flow, clean logic, and readable structure
 
 ---
 
-
-
 ### 🗓 Day 14 – Encapsulation, Polymorphism, Interface and Abstract Class
 **(Date: 1-Jan-2026)** 
 
-#### 🔹 Java OOPS Practice (`java-oops-practice`)
+####  Java OOPS Practice (`java-oops-practice`)
 Learned and practiced Encapsulation along with scenario-based OOPS problem solving.
 
 **Topics Covered:**
@@ -305,7 +306,7 @@ Learned and practiced Encapsulation along with scenario-based OOPS problem solvi
 - Example Implemented:
    - BankAccount with validated deposit & withdrawal operations
   
-####  🔹 OOPS Scenario-Based Practice (java-oops-practice)
+####   OOPS Scenario-Based Practice (java-oops-practice)
 Solved multiple real-world OOPS scenarios using a structured problem-solving approach.
 
 **Approach Followed::**
@@ -321,11 +322,10 @@ Solved multiple real-world OOPS scenarios using a structured problem-solving app
 
 ---
 
-## Week 3- Data Structures and Algorithms
-
+## 📊 Week 3 – Data Structures & Algorithms
 ---
 
- ### 🗓 Day 15 – Data Structures Overview
+ ### 🗓 Day 15 – Linked Lists 
 **(Date: 02-Jan-2026)**  
 **Branch:** `dsa-practice`
 
@@ -338,39 +338,26 @@ Solved multiple real-world OOPS scenarios using a structured problem-solving app
 - Understood use cases, advantages, and limitations
 - Implemented basic real-world linked list problems
 
-### 🔹 Scenario-Based OOP Practice (Java)
+###  Scenario-Based OOP Practice (Java)
 **Branch:** `java-oops-practice`
 
 Practiced real-world scenarios to strengthen **Core OOP Concepts**:
 **Encapsulation, Inheritance, Abstraction, Polymorphism**
 
-#### ✔ Scenarios Implemented
-- **Hospital Patient Management System**
-- **Vehicle Rental Application**
-- **University Course Enrollment System**
-- **E-Wallet Application**
-- **Smart Home Automation System**
+####  Scenarios Implemented
+- **Hospital Patient Management System** – Patient records, doctor assignment & billing  
+- **Vehicle Rental Application** – Vehicle booking, pricing & availability management  
+- **University Course Enrollment System** – Student registration & course allocation  
+- **E-Wallet Application** – Balance management, transactions & security checks  
+- **Smart Home Automation System** – Device control & automation rules
 
-#### 🔧 Concepts Covered
-- Constructor overloading  
-- Access modifiers  
-- Interfaces  
-- Method overriding  
-- Polymorphic behavior  
-- Real-world object modeling  
-
-### ✅ Summary
-- Built strong foundations in **DSA (Linked Lists)**
-- Applied **Java OOP concepts** through practical scenarios
-- Maintained clean separation of learning via branches
-- 
-  🔗 Code Links:
+🔗 Code Links:
 👉 [Day 15 -  LinkedList](https://github.com/Ayush5304/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaPractice/src/com/linkedlist)
 👉 [Scenario-Based Problems-Day2](https://github.com/Ayush5304/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaScenarioBased/src/com/Day2)
 
 ---
 
-### 📅 Day 16 – Stacks, Queues & Hashing
+### 🗓 Day 16 – Stacks, Queues & Hashing 
 **(Date: 03-Jan-2026)**  
 **Branch:** `dsa-practice`
 
@@ -382,33 +369,28 @@ Practiced real-world scenarios to strengthen **Core OOP Concepts**:
 - Practiced: balanced parentheses, BFS-style queues, sliding windows, hash-based lookups
 - Focus: optimized O(n) solutions & clean code
 
-### 🔹 Scenario-Based OOP Practice (Java)
+###  Scenario-Based OOP Practice (Java)
 **Branch:** `java-oops-practice`
 
 Practiced real-world scenarios to strengthen **Core OOP Concepts**:
 **Encapsulation, Inheritance, Abstraction, Polymorphism**
 
 #### ✔ Scenarios Implemented
-- **CabbyGo (Ride-Hailing App)**
-- **MyBank (Banking System)**
+- **CabbyGo** – Ride-hailing app with booking & fare calculation  
+- **MyBank** – Banking system with accounts, transactions & validation
 
-### ✅ Summary
-- Strengthened DSA fundamentals
-- Practiced real-world OOP design
-- Maintained structured learning via branches
-
-  🔗 Code Links:
+🔗 Code Links:
 👉 [Day 16 -  Stacks, Queues](https://github.com/Ayush5304/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaPractice/src/com/stackandqueue)
 👉 [hashmapandhashfunctions](https://github.com/Ayush5304/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaPractice/src/com/hashmapandhashfunctions)
 👉 [Scenario-Based Problems-Day3](https://github.com/Ayush5304/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaScenarioBased/src/com/Day3)
 
 ---
 
-### 📅 Day 17 – Sorting Algorithms & Scenario-Based OOP
+### 🗓 Day 17 – Sorting Algorithms 
 **(Date: 05-Jan-2026)**  
 **Branch:** `dsa-practice` 
 
-### 🔹 Sorting Algorithms (DSA)
+###  Sorting Algorithms (DSA)
 
 Practiced fundamental **sorting techniques** to organize data efficiently:
 
@@ -426,21 +408,15 @@ Practiced fundamental **sorting techniques** to organize data efficiently:
 - In-place vs Stable sorting  
 - Real-world datasets (marks, prices, salaries, ages)
 
-### 🔹 Scenario-Based OOP Practice (Java)
+###  Scenario-Based OOP Practice (Java)
 **Branch:** `java-oops-practice`
 
 Strengthened **Core OOP Concepts** through real-world systems:
 **Encapsulation, Inheritance, Abstraction, Polymorphism**
 
-#### ✔ Scenarios Implemented
-- **CampusConnect – College Information System**
-- **SwiftCart – Grocery Shopping App**
-
-### ✅ Summary
-- Built strong understanding of **sorting algorithms**
-- Compared algorithm efficiency & use cases
-- Applied **OOP principles** in real-world scenarios
-- Maintained clean, structured learning across branches
+####  Scenarios Implemented
+- **CampusConnect** – College Information System
+- **SwiftCart** – Grocery Shopping App
 
 🔗 **Code Links:**  
 👉 [Day 17- Sorting Algorithms ](https://github.com/Ayush5304/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaPractice/src/com/Sorting)  
@@ -448,55 +424,40 @@ Strengthened **Core OOP Concepts** through real-world systems:
 
 ---
 
-### 📅 Day 18 – Java I/O Streams, String Optimization & Search Algorithms  
+### 🗓 Day 18 – Java I/O Streams, String Optimization & Search Algorithms  
 **(Date: 06-Jan-2026)**  
-**Branch:** `dsa-practice`  
-
-### 🔹 Java I/O Streams & String Handling (Core Java)
+**Branch:** `dsa-practice` 
 
 Practiced **Java input/output streams** and **efficient string manipulation** for real-world applications:
 
 - **File-Based Searching**
-  - Reading large files using BufferedReader
-  - Word extraction and normalization
-  - Searching text data using linear and binary search
+  - Read large files using BufferedReader
+  - Extract & search words using linear and binary search
 
 - **String Optimization**
-  - Difference between String, StringBuilder, and StringBuffer
-  - Performance comparison and thread-safety analysis
-    
-### 🔹 Searching Algorithms (DSA)
+  - String vs StringBuilder vs StringBuffer
+  - Performance & thread-safety comparison
+
+###  Searching Algorithms (DSA)
 - **Linear Search**
-  - First negative element in an array
-  - Searching a specific word in sentences
-  - Word search in large text files using BufferedReader
-  - Suitable for unsorted and small datasets
+  - Array & text-based searching
+  - Best for unsorted or small datasets
 
 - **Binary Search**
-  - Rotation point in rotated sorted arrays
-  - Finding peak elements
-  - Searching in 2D sorted matrices
-  - First and last occurrence of elements
-  - Efficient searching in sorted datasets
+  - Rotated arrays, peak elements, 2D matrices
+  - First/last occurrence in sorted data
 
-### 🔹 Scenario-Based OOP Practice (Java)
+###  Scenario-Based OOP Practice (Java)
 **Branch:** `java-oops-practice`
 
 Applied **Core OOP Principles** through real-world systems:
 **Encapsulation, Inheritance, Abstraction, Polymorphism**
 
-#### ✔ Scenarios Implemented
+####  Scenarios Implemented
 - **EduMentor** – Learning platform with quizzes & certification logic  
 - **FitTrack** – Fitness tracking with workouts & calorie computation  
 - **PetPal** – Virtual pet care with interactive behaviors  
 - **EventEase** – Event booking, scheduling & cost calculation
-- 
-### ✅ Summary
-- Mastered **Java I/O streams & encoding**
-- Compared **String, StringBuilder & StringBuffer**
-- Implemented **search algorithms on arrays & files**
-- Built multiple **real-world OOP systems**
-- Maintained clean separation of **DSA & OOP branches**
 
 🔗 **Code Links:**  
 👉 [Day 18- Searching Algorithms ](https://github.com/Ayush5304/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaPractice/src/com/Searching) 
@@ -509,13 +470,13 @@ Applied **Core OOP Principles** through real-world systems:
 
 ---
 
-### 📅 Day 19 –  Runtime Analysis & Big-O Notation   
+### 🗓 Day 19  –  Runtime Analysis & Big-O Notation   
 **(Date: 07-Jan-2026)**  
 **Branch:** `dsa-practice`
  
 Learned how to **measure algorithm efficiency** based on time and space growth.
 
-#### ✔ Topics Covered
+####  Topics Covered
 - **Big-O Notations:** O(1), O(log N), O(N), O(N log N), O(N²), O(2ⁿ), O(N!)
 - **Time Complexity:** Best, Average, Worst case analysis
 - **Space Complexity:** O(1) vs O(N)
@@ -526,13 +487,13 @@ Learned how to **measure algorithm efficiency** based on time and space growth.
 - Reducing nested loops  
 - Optimizing time & space usage
 
- ### 🔹 Scenario-Based OOP Practice (Java)
+ ###  Scenario-Based OOP Practice (Java)
 **Branch:** `java-oops-practice`
 
 Applied **Core OOP Principles**:
 **Encapsulation, Inheritance, Abstraction, Polymorphism**
 
-#### ✔ Scenarios Implemented
+####  Scenarios Implemented
 - **LoanBuddy** – Loan approval & EMI calculation system  
 - **BookBazaar** – Bookstore inventory, orders & discounts  
 - **ParkEase** – Smart parking slots & charge calculation
