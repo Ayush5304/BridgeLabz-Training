@@ -2,10 +2,6 @@
 
 ---
 
-## Core Programming
-
----
-
 ### 🗓 Day 1 – Git & GitHub Setup  
 **(Date: 16-Dec-2025)**
 
@@ -40,6 +36,10 @@ BridgeLabz-Training/
 
 🔗 **Code Link:**  
 👉 [Day 2 – Basic Java Programs](https://github.com/Ayush5304/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/program-prerequisites)
+
+---
+
+## Week 1- Core Java Programming
 
 ---
 
@@ -155,7 +155,7 @@ BridgeLabz-Training/
 
 ---
 
-##  Object-Oriented Programming
+ ## Week 2- Object-Oriented Programming
 
 ---
 
@@ -321,11 +321,11 @@ Solved multiple real-world OOPS scenarios using a structured problem-solving app
 
 ---
 
-##  Data Structures and Algorithms
+## Week 3- Data Structures and Algorithms
 
 ---
 
-###  Data Structures Overview
+ ### 🗓 Day 15 – Data Structures Overview
 **(Date: 02-Jan-2026)**  
 **Branch:** `dsa-practice`
 
