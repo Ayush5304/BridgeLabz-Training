@@ -2,6 +2,10 @@
 
 ---
 
+## Core Programming
+
+---
+
 ### 🗓 Day 1 – Git & GitHub Setup  
 **(Date: 16-Dec-2025)**
 
@@ -148,6 +152,10 @@ BridgeLabz-Training/
 
 🔗 **Code Link:**  
 👉 [Day 8 – Scenario-Based Problems ](https://github.com/Ayush5304/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
+
+---
+
+##  Object-Oriented Programming
 
 ---
 
@@ -313,11 +321,11 @@ Solved multiple real-world OOPS scenarios using a structured problem-solving app
 
 ---
 
-## 📘 DSA & Java OOP Practice – Progress Log
+##  Data Structures and Algorithms
 
 ---
 
-### 📅 Day 15 – Data Structures Overview
+###  Data Structures Overview
 **(Date: 02-Jan-2026)**  
 **Branch:** `dsa-practice`
 
