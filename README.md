@@ -268,7 +268,7 @@ Applied **Core OOP Principles**:
 - **ParkEase** – Smart parking slots & charge calculation  
 
 🔗 **Code Links:**  
-👉 [Day 11 – Scenario-Based Problems-Day5](https://github.com/Ayush5304/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaScenarioBased/src/com/Day6)
+👉 [Day 11 – Scenario-Based Problems-Day6](https://github.com/Ayush5304/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaScenarioBased/src/com/Day6)
 
 
 
