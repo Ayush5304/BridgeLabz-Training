@@ -507,6 +507,39 @@ Applied **Core OOP Principles** through real-world systems:
 👉 [ChallengeProblem](https://github.com/Ayush5304/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaPractice/src/com/ChallengeProblem)
 👉 [Scenario-Based Problems-Day5](https://github.com/Ayush5304/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaScenarioBased/src/com/Day5)
 
+---
+
+### 📅 Day 19 –  Runtime Analysis & Big-O Notation   
+**(Date: 07-Jan-2026)**  
+**Branch:** `dsa-practice`
+ 
+Learned how to **measure algorithm efficiency** based on time and space growth.
+
+#### ✔ Topics Covered
+- **Big-O Notations:** O(1), O(log N), O(N), O(N log N), O(N²), O(2ⁿ), O(N!)
+- **Time Complexity:** Best, Average, Worst case analysis
+- **Space Complexity:** O(1) vs O(N)
+- **Algorithm Comparison:** Linear Search, Binary Search, Bubble Sort, Merge Sort, Quick Sort
+
+**Focus:**  
+- Choosing efficient algorithms  
+- Reducing nested loops  
+- Optimizing time & space usage
+
+ ### 🔹 Scenario-Based OOP Practice (Java)
+**Branch:** `java-oops-practice`
+
+Applied **Core OOP Principles**:
+**Encapsulation, Inheritance, Abstraction, Polymorphism**
+
+#### ✔ Scenarios Implemented
+- **LoanBuddy** – Loan approval & EMI calculation system  
+- **BookBazaar** – Bookstore inventory, orders & discounts  
+- **ParkEase** – Smart parking slots & charge calculation
+  
+🔗 **Code Links:**
+👉 [Day 19- Runtime Analysis & Big-O](https://github.com/Ayush5304/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaPractice/src/com/TimeandSpaceComplexity)
+👉 [Scenario-Based Problems-Day6](https://github.com/Ayush5304/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaScenarioBased/src/com/Day6)
 
 
 
