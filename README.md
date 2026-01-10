@@ -552,5 +552,18 @@ Applied **Core OOP Principles**:
 - Constructor-based design and calculations
 
 🔗 **Code Links:**
-👉 [Day 20 - Scenario-Based OOP Practice](https://github.com/Ayush5304/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaScenarioBased/src/com/Day8)
+👉 [Day 20 - Scenario-Based OOP Practice](https://github.com/Ayush5304/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaScenarioBased/src/com/Day7)
 
+---
+
+### 📅 Day 21 - Scenario-Based OOP Practice
+**(Date: 09-Jan-2026)**  
+**Branch:** `java-oops-practice`
+
+#### 🔹 Scenarios Implemented
+- **Artify** – Digital art marketplace with purchases and licensing  
+- **FoodLoop** – Restaurant ordering system with combos and discounts  
+- **SkillForge** – Online learning portal with courses and certification  
+
+🔗 **Code Links:**
+👉 [Day 21 - Scenario-Based OOP Practice](https://github.com/Ayush5304/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaScenarioBased/src/com/Day8)
