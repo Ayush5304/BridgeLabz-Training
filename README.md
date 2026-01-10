@@ -587,6 +587,6 @@ Applied **Core OOP Principles**:
 ###  Key Focus
 - Real-world problem modeling  
 - Efficient insert, delete, and traversal operations
-
+  
 🔗 **Code Links:**
 👉 [Day 22 - Scenario-Based DSA Practice](https://github.com/Ayush5304/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DsaScenarioPractice/src/com/Day1)
