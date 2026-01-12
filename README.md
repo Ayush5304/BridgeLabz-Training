@@ -622,4 +622,5 @@ Applied **Core OOP Principles**:
 🔗 **Code Links:**
 👉 [Day 23 - Scenario-Based DSA Practice](https://github.com/Ayush5304/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DsaScenarioPractice/src/com/Day2)
 👉 [DSA Leetcode Practice](https://github.com/Ayush5304/BridgeLabz-Training/tree/dsa-practice/dsa-practice/leet-code-codebase/JavaLeetcodePractice/src/com/Day1/MajorityElement)
+👉 [Java OOPs Scenario Problems](https://github.com/Ayush5304/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaScenarioBased/src/com/Day9/HomeNest)
 
