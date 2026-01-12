@@ -590,3 +590,36 @@ Applied **Core OOP Principles**:
   
 🔗 **Code Links:**
 👉 [Day 22 - Scenario-Based DSA Practice](https://github.com/Ayush5304/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DsaScenarioPractice/src/com/Day1)
+
+---
+
+### 📅 Day 23 Scenario-Based & Leetcode practice
+**(Date: 12-Jan-2026)**
+**Branch:** `dsa-practice` & `java-oops-practice`
+
+####  Summary
+- Solved **5 DSA real-world scenarios**
+- Solved **3 Java OOP scenario-based problems**
+- Practiced **DSA problems on LeetCode**
+
+####  DSA Scenarios Implemented
+- **TrafficManager** – Circular Linked List & Queue  
+- **BookShelf** – HashMap & Linked List  
+- **CallCenter** – Queue, PriorityQueue & HashMap  
+- **TrainCompanion** – Doubly Linked List  
+- **TextEditor** – Stack-based Undo/Redo  
+
+####  Java OOP Scenarios Implemented
+- **HomeNest** – Smart home device manager  
+- **BudgetWise** – Personal finance tracker  
+- **GameBox** – Mobile game distribution platform  
+
+####  Key Concepts Covered
+- Linked Lists, Stack, Queue, HashMap  
+- Core OOP Principles  
+- LeetCode-based DSA problem solving
+
+🔗 **Code Links:**
+👉 [Day 23 - Scenario-Based DSA Practice](https://github.com/Ayush5304/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DsaScenarioPractice/src/com/Day2)
+👉 [DSA Leetcode Practice](https://github.com/Ayush5304/BridgeLabz-Training/tree/dsa-practice/dsa-practice/leet-code-codebase/JavaLeetcodePractice/src/com/Day1/MajorityElement)
+
