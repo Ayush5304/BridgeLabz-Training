@@ -622,5 +622,38 @@ Applied **Core OOP Principles**:
 🔗 **Code Links:**
 👉 [Day 23 - Scenario-Based DSA Practice](https://github.com/Ayush5304/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DsaScenarioPractice/src/com/Day2)
 👉 [DSA Leetcode Practice](https://github.com/Ayush5304/BridgeLabz-Training/tree/dsa-practice/dsa-practice/leet-code-codebase/JavaLeetcodePractice/src/com/Day1/MajorityElement)
-👉 [Java OOPs Scenario Problems](https://github.com/Ayush5304/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaScenarioBased/src/com/Day9/HomeNest)
+👉 [Java OOPs Scenario Problems- Day9](https://github.com/Ayush5304/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaScenarioBased/src/com/Day9/HomeNest)
+
+---
+
+### 🗓 Day 24  – Java OOPs & DSA Scenario-Based Practice  
+**(Date: 13 -Jan-2026)**  
+**Branch:** `dsa-practice`
+ 
+Worked on real-world DSA use cases using core data structures.
+
+####  Topics Covered
+- Queue & HashMap: SmartCheckout – Supermarket Billing Queue
+- Singly Linked List: ParcelTracker – Delivery Chain Management
+- Stack & HashMap: ExamProctor – Online Exam Review System
+
+**Focus:**  
+- Applying DSA to real-life scenarios
+- Efficient data organization and retrieval
+- Clean logic using core collections
+
+ ###  Scenario-Based OOP Practice (Java)
+**Branch:** `java-oops-practice`
+
+Applied **Core OOP Principles**:
+**Encapsulation, Inheritance, Abstraction, Polymorphism**
+
+####  Scenarios Implemented
+- **PayXpress** – Utility Bill Payment System
+- **EcoWing Bird Sanctuary** – Bird behavior tracking system
+- **Bird Sanctuary (Advanced)** – Annotations and Reflection
+  
+🔗 **Code Links:**
+👉 [Day 24- DSA Scenario-Based Practice ](https://github.com/Ayush5304/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DsaScenarioPractice/src/com/Day3)
+👉 [Java OOPs Scenario Problems-Day10](https://github.com/Ayush5304/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaScenarioBased/src/com/Day10)
 
