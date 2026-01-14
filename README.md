@@ -633,9 +633,9 @@ Applied **Core OOP Principles**:
 Worked on real-world DSA use cases using core data structures.
 
 ####  Topics Covered
-- Queue & HashMap: SmartCheckout – Supermarket Billing Queue
-- Singly Linked List: ParcelTracker – Delivery Chain Management
-- Stack & HashMap: ExamProctor – Online Exam Review System
+-  **SmartCheckout** – Supermarket Billing Queue(Queue & HashMap)
+-  **ParcelTracker** – Delivery Chain Management(Singly Linked List)
+-  **ExamProctor** – Online Exam Review System(Stack & HashMap)
 
 **Focus:**  
 - Applying DSA to real-life scenarios
