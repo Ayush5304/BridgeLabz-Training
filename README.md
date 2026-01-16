@@ -70,7 +70,10 @@ BridgeLabz-Training/
 
 
 ## 📘 Week 1 – Core Java Programming
----
+
+<details>
+<summary><strong>Click to expand...👆</strong></summary>
+
 ### 🗓 Day 1 – Git & GitHub Setup  
 **(Date: 16-Dec-2025)**
 
@@ -203,10 +206,13 @@ BridgeLabz-Training/
 🔗 **Code Link:**  
 👉 [Day 8 – Scenario-Based Problems ](https://github.com/Ayush5304/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
 
+</details>
 ---
 
 ## 🧠 Week 2 – Object-Oriented Programming (Java)
----
+
+<details>
+<summary><strong>Click to expand...👆</strong></summary>
 
 ### 🗓 Day 9 – OOPS Concepts & Eclipse IDE Setup
 **(Date: 26-Dec-2025)**
@@ -365,11 +371,15 @@ Solved multiple real-world OOPS scenarios using a structured problem-solving app
 👉 [Day 14 -  Encapsulation and Polymorphism](https://github.com/Ayush5304/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/encapsulationandpolymorphism)
 👉 [Scenario-Based Problems-Day1](https://github.com/Ayush5304/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaScenarioBased/src/com/Day1)
 
+</details>
+
 ---
 
 ## 📊 Week 3 – Data Structures & Algorithms
----
 
+<details>
+<summary><strong>Click to expand...👆</strong></summary>
+  
  ### 🗓 Day 15 – Linked Lists 
 **(Date: 02-Jan-2026)**  
 **Branch:** `dsa-practice`
