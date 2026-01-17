@@ -175,3 +175,91 @@ Learned how to **measure algorithm efficiency** based on time and space growth.
 
 🔗 **Code Links:**
 👉 [Day 6 - Scenario-Based DSA Practice](https://github.com/Ayush5304/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DsaScenarioPractice/src/com/Day1)
+
+---
+
+### 📅 Day 7 - Scenario-Based & Leetcode practice
+**(Date: 12-Jan-2026)**                                                                                           
+**Branch:** `dsa-practice`
+
+#### 🔹 Summary
+- Solved **5 DSA real-world scenarios**
+- Practiced **DSA problems on LeetCode**
+
+#### 🔹 DSA Scenarios Implemented
+- **TrafficManager** – Circular Linked List & Queue  
+- **BookShelf** – HashMap & Linked List  
+- **CallCenter** – Queue, PriorityQueue & HashMap  
+- **TrainCompanion** – Doubly Linked List  
+- **TextEditor** – Stack-based Undo/Redo  
+
+#### 🔹 Key Concepts Covered
+- Linked Lists, Stack, Queue, HashMap  
+- Core OOP Principles  
+- LeetCode-based DSA problem solving
+
+🔗 **Code Links:**
+👉 [Day 7 - Scenario-Based DSA Practice](https://github.com/Ayush5304/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DsaScenarioPractice/src/com/Day2)
+👉 [DSA Leetcode Practice](https://github.com/Ayush5304/BridgeLabz-Training/tree/dsa-practice/dsa-practice/leet-code-codebase/JavaLeetcodePractice/src/com/Day1)
+
+---
+
+### 🗓 Day 8 – Java OOPs & DSA Scenario-Based Practice  
+**(Date: 13 -Jan-2026)**  
+**Branch:** `dsa-practice`
+ 
+Worked on real-world DSA use cases using core data structures.
+
+####  Topics Covered
+-  **SmartCheckout** – Supermarket Billing Queue(Queue & HashMap)
+-  **ParcelTracker** – Delivery Chain Management(Singly Linked List)
+-  **ExamProctor** – Online Exam Review System(Stack & HashMap)
+
+**Focus:**  
+- Applying DSA to real-life scenarios
+- Efficient data organization and retrieval
+- Clean logic using core collections
+
+🔗 **Code Links:**
+👉 [Day 8 - DSA Scenario-Based Practice](https://github.com/Ayush5304/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DsaScenarioPractice/src/com/Day3)
+
+---
+
+### 🗓 Day 9 – Sorting Algorithms Scenario Practice
+**(Date: 15-Jan-2026)**                    
+**Branch:** `dsa-practice`
+
+#### 🔹 Solved real-world, scenario-based problems using sorting algorithms:
+  - Bubble Sort (patient criticality management)
+  - Insertion Sort (real-time book arrangement)
+  - Merge Sort (sales reports and student ranking)
+  - Quick Sort (ticket price optimization)
+Analyzed sorting behavior for small vs large datasets, stability, and performance.
+
+#### 🔹 Solved 5 LeetCode problems to strengthen understanding of core DSA concepts.       
+#### 🔹 Practiced problem-solving using efficient approaches and optimized logic.
+
+🔗 **Code Links:**  
+👉 [day 9 - DSA Sorting Scenarios](https://github.com/Ayush5304/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DsaScenarioPractice/src/com/Day4)
+
+---
+
+### 📅 Day 10 – Sorting Scenarios & Java Collections Framework  
+**(Date: 16-Jan-2026)**  
+**Branch:** `dsa-practice`
+
+Solved **3 real-world scenario-based sorting problems**:
+
+- **RoboWarehouse** – Shelf loading using **Insertion Sort** (dynamic, streaming inserts)
+- **CinemaHouse** – Movie showtime ordering using **Bubble Sort** (small dataset)
+- **CropMonitor** – Sensor data ordering using **Quick Sort** (large, unordered data)
+
+#### ✅ Summary
+- Strengthened **sorting algorithm application**
+- Solved extensive **hands-on problems** across Quick, Selection, Merge, Insertion, & Bubble Sort
+- Continued structured, branch-wise learning
+
+🔗 **Code Links:**
+👉 [day 10 - DSA Sorting Scenarios](https://github.com/Ayush5304/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DsaScenarioPractice/src/com/Day5)
+
+---
