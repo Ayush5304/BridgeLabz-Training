@@ -289,7 +289,7 @@ Applied **Core OOP Principles**:
 - Constructor-based design and calculations
 
 🔗 **Code Links:**
-👉 [Day 12- Scenario-Based OOP Practice](https://github.com/Ayush5304/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaScenarioBased/src/com/Day8)
+👉 [Day 12- Scenario-Based OOP Practice](https://github.com/Ayush5304/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaScenarioBased/src/com/Day7)
 
 
 ---
@@ -341,8 +341,19 @@ Applied **Core OOP Principles**:
 🔗 **Code Links:**
 👉 [Day 15 - Java OOPs Scenario Problems](https://github.com/Ayush5304/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaScenarioBased/src/com/Day10)
 
+
 ---
 
+### 📅 Day 16 – Scenario-Based OOP Practice (Java) 
+**(Date: 17-Jan-2026)**  
+**Branch:** `java-oops-practice`
+
+Solved **2 OOP-based scenario questions**:
+- **GeoMeasure Solutions** – Line comparison using classes, constructors, encapsulation, methods, and `this` keyword.
+- **Bag-n-Ball Organizer** – Modeled Bag–Ball relationship using classes, encapsulation, composition, and method design (capacity checks, add/remove/display).
+
+🔗 **Code Links:**   
+👉 [Day 16 - Java OOPs Scenario Problems](https://github.com/Ayush5304/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaScenarioBased/src/com/Day11)
 
 
 
