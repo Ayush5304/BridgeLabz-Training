@@ -681,7 +681,14 @@ Applied **Core OOP Principles**:
 👉 [Day 24- DSA Scenario-Based Practice ](https://github.com/Ayush5304/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DsaScenarioPractice/src/com/Day3)
 👉 [Java OOPs Scenario Problems-Day10](https://github.com/Ayush5304/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaScenarioBased/src/com/Day10)
 
+</details>
+
 ---
+
+## 🧠 Week 4 – Java Collections, Streams - Progress Log
+
+<details>
+<summary><strong>Click to expand...👆</strong></summary>
 
 ### 🗓 Day 25 – Sorting Algorithms & Java Generics Practice  
 **(Date: 15-Jan-2026)**
@@ -787,9 +794,19 @@ Worked on **4 real-world, scenario-based problems** applying core **sorting algo
 - Choosing algorithms based on data size & nature
 - Real-time vs batch sorting
 - Efficiency in practical systems
+ ###  Scenario-Based OOP Practice (Java)
+**Branch:** `java-oops-practice`
+
+Applied **Core OOP Principles**:
+**Encapsulation, Inheritance, Abstraction, Polymorphism**
+
+- **GeoMeasure Solutions** – Line comparison using classes, constructors, encapsulation, methods, and this keyword.
+- **Bag-n-Ball Organizer** – Modeled Bag–Ball relationship using classes, encapsulation, composition, and method design (capacity checks, add/remove/display).
 
 🔗 **Code Links:**   
 👉 [Day 27 - Sorting Algorithm Scenarios](https://github.com/Ayush5304/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DsaScenarioPractice/src/com/Day6)
+👉 [Java OOPs Scenario Problems](https://github.com/Ayush5304/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaScenarioBased/src/com/Day11)
 
+</details>
 
 ---
