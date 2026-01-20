@@ -778,22 +778,16 @@ Worked on **4 real-world, scenario-based problems** applying core **sorting algo
 ####  Sorting Scenarios Implemented
 
 - **IceCreamRush** – Sorted ice cream flavors by weekly sales using **Bubble Sort**  
-  *Focus:* small dataset, simple adjacent comparisons
-
 - **SmartLibrary** – Maintained alphabetically sorted borrowed books using **Insertion Sort**  
-  *Focus:* dynamic insertion, nearly sorted data
-
 - **ArtExpo** – Managed artist registrations sorted by time using **Insertion Sort**  
-  *Focus:* real-time insertion, incremental sorting
-
 - **FleetManager** – Combined vehicle maintenance schedules using **Merge Sort**  
-  *Focus:* merging sorted sublists, scalability for large datasets
 
 ###  Concepts Covered
 - Bubble Sort, Insertion Sort, Merge Sort
 - Choosing algorithms based on data size & nature
 - Real-time vs batch sorting
 - Efficiency in practical systems
+  
  ###  Scenario-Based OOP Practice (Java)
 **Branch:** `java-oops-practice`
 
@@ -806,6 +800,63 @@ Applied **Core OOP Principles**:
 🔗 **Code Links:**   
 👉 [Day 27 - Sorting Algorithm Scenarios](https://github.com/Ayush5304/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DsaScenarioPractice/src/com/Day6)
 👉 [Java OOPs Scenario Problems](https://github.com/Ayush5304/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaScenarioBased/src/com/Day11)
+
+---
+
+### 📅 Day 28 – DSA, OOPS & Java Collections  
+**(Date: 19-Jan-2026)**   
+
+####  DSA – Scenario Based Sorting `(dsa-practice)`
+Solved **3 real-world sorting problems**:
+- **EduResults** – Merge Sort (state-wise rank list from district-wise sorted data)
+- **FlashDealz** – Quick Sort (sorting products by discount for flash sales)
+- **FitnessTracker** – Bubble Sort (daily step count ranking for small groups)
+
+####  Java OOPS – Scenario Based `(java-oops-practice)`
+Solved **1 OOP scenario problem**:
+- **Address Book System**  
+  Implemented contact management using classes, constructors, encapsulation, collections (`ArrayList`), search, sort, add, edit, and delete operations.
+
+####  Java Collections / I-O Streams `(java-collections-practice)`
+Learned **Java I/O Streams**:
+- Byte Streams & Character Streams
+- File, Buffered, Object, ByteArray, Data, Piped Streams
+- Reader & Writer with encoding
+- **🛠 Best practices:** buffering, try-with-resources, serialization
+- 
+🔗 **Code Links:**  
+👉 [Day 28 - Java Streams](https://github.com/Ayush5304/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/Streams)
+👉 [Sorting Algorithm Scenarios](https://github.com/Ayush5304/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DsaScenarioPractice/src/com/Day7)
+👉 [Java OOPs Scenario Problems](https://github.com/Ayush5304/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaScenarioBased/src/com/Day12/AddressBookSystem)
+
+---
+
+### 📅 Day 29 – DSA, Logic Building & Exception Handling  
+**(Date: 20-jan-2026)**
+
+####  DSA – Scenario Based Sorting (dsa-practice)
+Solved **3 real-world sorting problems**:
+- **MovieTime** – Insertion Sort (real-time theater showtime insertion)
+- **FoodFest** – Merge Sort (combining zone-wise footfall data)
+- **GamerZone** – Quick Sort (high-score leaderboard for large dynamic data)
+
+####  Logical Problem (dsa-practice)
+- **Password Generating Key**  
+  Implemented ASCII-based string transformation with validation, filtering even ASCII values, reversing, and position-based casing.
+
+####  Java Exception Handling (java-collections-practice)
+Learned and practiced:
+- Checked & Unchecked Exceptions  
+- Custom Exceptions (extending `Exception`)
+- `try-catch`, `try-catch-finally`
+- `try-with-resources`
+- `throw` and `throws`
+- Exception handling best practices
+
+🔗 **Code Links:**  
+👉 [Day 29 - Java Exceptions](https://github.com/Ayush5304/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/Exceptions)
+👉 [Sorting Algorithm Scenarios](https://github.com/Ayush5304/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DsaScenarioPractice/src/com/Day8)
+👉 [DSA Logical Question](https://github.com/Ayush5304/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DsaScenarioPractice/src/com/AssessmentProblems)
 
 </details>
 
