@@ -5,8 +5,8 @@ This repository documents my **day-wise learning journey at BridgeLabz-Training*
 - Object-Oriented Programming (OOP)
 - Data Structures & Algorithms (DSA)
 - Real-world scenario-based problem solving
-  
----
+
+  ---
 
 ## 📂 Project Structure
 
