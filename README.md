@@ -874,7 +874,7 @@ Solved **3 BST-based scenario problems**:
 - **E-Commerce Product Inventory** – SKU-based lookup, update, and sorted listing.
 - **Music App Track Organizer** – Track search, insertion, and in-order playlist display.
 
-#### 🔹Learned and practiced **Regex & JUnit**:
+#### Learned and practiced **Regex & JUnit**:
 **Branch:** `java-collections-practice`
 
 #### Regex
@@ -897,6 +897,123 @@ Solved **3 BST-based scenario problems**:
 🔗 **Code Links:**  
 👉 [Sorting Algorithm Scenarios](https://github.com/Ayush5304/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DsaScenarioPractice/src/com/Day9)
 👉 [Tree Based Scenarios](https://github.com/Ayush5304/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DsaScenarioPractice/src/com/Day9)
+
+
+---
+
+### 📅 Day 31 – Annotations, Reflection & AVL Trees Scenarios
+*Date: 22-Jan-2026)*                    
+*Branch:* java-collections-practice
+
+Focused on *Annotations and Reflection* with practical examples.
+
+#### Annotations
+- Purpose of annotations for metadata and configuration
+- Used built-in annotations like @Override, @Deprecated
+- Created custom annotations
+- metadata handling using annotations
+- Explored real-world use cases (validation, logging, frameworks)
+
+#### Reflection
+- Understood runtime inspection of classes, methods, and fields
+- Used Reflection APIs to access methods and annotations dynamically
+- Learned how annotations work with reflection in frameworks
+
+####  DSA – AVL Tree Scenarios dsa-practice
+Solved *3 real-world AVL Tree problems*:
+
+- *Gaming App Leaderboard* – insert, update, rank, and remove players
+- *Online Ticket Booking* – manage events sorted by time
+- *Hospital Queue System* – balanced patient registration and retrieval
+
+🔗 *Code Links:*  
+👉 [Day 31 - Annotations](https://github.com/Ayush5304/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/Annotations)
+👉 [Reflection](https://github.com/Ayush5304/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/Reflection)
+👉 [Tree Based Scenarios](https://github.com/Ayush5304/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DsaScenarioPractice/src/com/Day10)
+
+</details>
+
+---
+
+## 📅 Week 5 - IO Programming (CSV & JSON Files Handling)
+
+<details>
+<summary><strong>Click to expand...👆</strong></summary>
+
+### 📅 Day 32 – CSV Data Handling & Scenario-Based Java Practice  
+*(Date: 23-Jan-2026)*          
+*Branche:* java-iostreams-practice
+
+#### Java I/O Streams – CSV Data Handling
+Learned how to work with *CSV (Comma-Separated Values)* files for real-world data processing.
+
+### Topics Covered
+- CSV fundamentals (rows, columns, delimiters)
+- Reading CSV using:
+  - BufferedReader (manual parsing)
+  - *OpenCSV* library
+- Writing CSV using:
+  - BufferedWriter
+  - CSVWriter (OpenCSV)
+- Mapping CSV data to Java objects (CsvToBean)
+- CSV data validation using *Regex*
+- Handling missing/invalid fields with exceptions
+
+#### Scenario-Based Java Practice | java-collections-practice
+Solved *5 real-world systems* using *Collections, Generics, I/O Streams, Regex, and Exceptions*:
+
+####  Scenarios Implemented
+- *ResumeAnalyzer* – Resume parsing, regex-based extraction, keyword ranking
+- *TravelLog* – Object serialization, search using regex, stats using Map & Set
+- *FeedbackGuru* – Feedback analysis, rating extraction, category grouping
+- *CodeRepoCleaner* – Java file scanning, regex validation, file categorization
+- *ExamScanner* – CSV parsing, answer validation, scoring using Maps & PriorityQueue
+
+🔗 *Code Links:*  
+👉 [Day 32 - CSV Data Handling](https://github.com/Ayush5304/BridgeLabz-Training/tree/java-iostreams-practice/java-iostreams-practice/gcr-codebase/JavaIOStreamsPractice/src/com/CSVDataHandling)
+👉 [Collections Scenarios-Based](https://github.com/Ayush5304/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/scenario-based-codebase/CollectionsScenarioPractice/src/com/Day1)
+
+---
+
+### 📅 Day 33 – JSON Data Handling & Scenario-Based Java Practice  
+*(Date: 24-Jan-2026)*         
+*Branche:* java-iostreams-practice
+
+####  JSON Data Handling in Java
+Learned *JSON (JavaScript Object Notation)* for structured data exchange and processing.
+
+#### Topics Covered
+- JSON fundamentals: objects, arrays, nested structures
+- Creating JSON using:
+  - org.json
+  - *Gson*
+  - *Jackson*
+- Reading JSON:
+  - Mapping JSON → POJO (ObjectMapper.readValue)
+  - Dynamic parsing using JsonNode
+- Writing JSON:
+  - Java objects → JSON files
+- Nested JSON & JSON arrays
+- JSON Schema Validation for structure and data integrity
+
+#### Key Takeaways
+- Jackson is best for *enterprise-grade JSON processing*
+- Gson is lightweight and simple
+- JSON Schema ensures *data consistency and validation*
+
+####  Scenario-Based Practice | java-collections-practice
+Solved *5 real-world systems* integrating *Collections, Generics, I/O Streams, Regex, JSON/CSV, and Custom Exceptions*:
+
+####  Scenarios Implemented
+- *MedInventory* – CSV inventory parsing, expiry detection, low-stock alerts
+- *ChatLogParser* – Chat analysis using regex, TreeMap sorting, filters
+- *SongVault* – Music file parsing, grouping, stream-based filtering
+- *ExamResultUploader* – CSV validation, subject-wise ranking, PriorityQueue
+- *DealTracker* – Deal parsing, expiry checks, duplicate prevention, sorting
+
+🔗 *Code Links:*  
+👉 [Day 33 - JSON Data](https://github.com/Ayush5304/BridgeLabz-Training/tree/java-iostreams-practice/java-iostreams-practice/gcr-codebase/JavaIOStreamsPractice/src/com/JSON)
+👉 [Collections Scenarios-Based](https://github.com/Ayush5304/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/scenario-based-codebase/CollectionsScenarioPractice/src/com/Day2)
 
 </details>
 
