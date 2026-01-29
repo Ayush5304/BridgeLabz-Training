@@ -1018,3 +1018,56 @@ Solved *5 real-world systems* integrating *Collections, Generics, I/O Streams, R
 </details>
 
 ---
+
+## 📅 Week 6 - Java 8 & its Features - Progress Log
+
+<details>
+<summary><strong>Click to expand...👆</strong></summary>
+
+---
+
+### 📅 Day 34 – Java 8 Features & Advanced Java Practice  
+*(Date: 27-Jan-2026)*            
+*Branch:* java8-programming-practice
+
+####  Java 8 Core Concepts Learned
+#### Lambda Expressions
+- Learned *lambda expressions* as concise implementations of functional interfaces (SAM).
+- Understood *target typing, **type inference, and **effectively final variables*.
+- Compared *anonymous classes vs lambdas* (this behavior).
+- Applied lambdas in:
+  - Dynamic sorting (Comparator), Filtering (Predicate), Stream pipelines (filter, map, collect)
+
+#### Method References
+- Studied method references as readable alternatives to lambdas.
+- Types covered:
+  - Static (Class::method), Instance (obj::method), Unbound (Class::instanceMethod), Constructor (Class::new)
+- Learned overload ambiguity handling and when to prefer lambdas.
+
+#### Interfaces & Java 8 Enhancements
+- Deep understanding of *@FunctionalInterface* and SAM conversion.
+- Used built-in interfaces:
+  - Supplier, Consumer, Function, Predicate
+  - UnaryOperator, BinaryOperator, Comparator
+- Created custom functional interfaces with default methods.
+- *Default methods* for backward compatibility.
+- *Static methods* for interface-level utilities.
+- Method resolution rules (class wins, conflict resolution).
+- Marker interfaces vs *annotations* (modern alternative).
+
+####  Scenario-Based Implementations | java-iostreams-practice
+
+#### Java I/O + Annotations + Reflection
+- *HealthCheckPro* – API metadata scanning using custom annotations & reflection
+- *MarkMate* – CSV marks processing and JSON report generation
+- *EventTracker* – Audit logging via annotations, reflection, and JSON output
+
+🔗 *Code Links:*  
+👉 [Day 34 - Lamda Expressions](https://github.com/Ayush5304/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8Practice/src/com/LambdaExpressions)
+👉 [Method References](https://github.com/Ayush5304/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8Practice/src/com/LambdaExpressions)
+👉 [Functional Interfaces](https://github.com/Ayush5304/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8Practice/src/com/FunctionalInterfaces)
+👉 [IOStreams Scenarios-Based](https://github.com/Ayush5304/BridgeLabz-Training/tree/java-iostreams-practice/java-iostreams-practice/scenario-based-codebase/IOScenarioPractice/src/com/Day1)
+
+</details>
+
+---
