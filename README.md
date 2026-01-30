@@ -1068,6 +1068,56 @@ Solved *5 real-world systems* integrating *Collections, Generics, I/O Streams, R
 👉 [Functional Interfaces](https://github.com/Ayush5304/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8Practice/src/com/FunctionalInterfaces)
 👉 [IOStreams Scenarios-Based](https://github.com/Ayush5304/BridgeLabz-Training/tree/java-iostreams-practice/java-iostreams-practice/scenario-based-codebase/IOScenarioPractice/src/com/Day1)
 
+---
+
+### 📅 Day 35 – Stream API (Java 8+)
+**(Date: 28-Jan-2026)**  
+**Branch:** `java8-programming-practice`
+
+####  Topics Learned
+- **Stream API:** Functional-style processing of collections  
+  `source → intermediate operations → terminal operation`
+- **Intermediate Operations:** `filter`, `map`, `sorted`, `distinct`, `limit`
+- **Terminal Operations:** `collect`, `forEach`, `reduce`, `count`
+- **Parallel Streams:** `parallelStream()`, `ForkJoinPool`, ordering with forEachOrdered
+- Lazy evaluation and stream pipeline execution
+- Stateless vs stateful operations
+
+####  Practice Work
+- Built multiple stream pipelines on collections
+- Solved employee-based real-time problems using Stream API
+- Focused on filtering, mapping, sorting, and reduction logic
+
+🔗 **Code Link:**  
+👉 [Day 35 - Stream API](https://github.com/Ayush5304/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8Practice/src/com/StreamAPI)
+
+---
+
+### 📅 Day 36 – Collectors & Java 8 Features
+**(Date: 29-Jan-2026)**  
+**Branch:** `java8-programming-practice`
+
+####  Topics Learned
+- **Collectors:** Accumulating stream results
+  - `toList()`, `toSet()`, `toMap()`
+  - `joining()`
+  - `groupingBy()`
+  - `partitioningBy()`
+  - `summarizingInt()`
+- **forEach():** Iteration using `Consumer`
+- **Parallel Streams:** `parallelStream()`, `forEachOrdered()`
+- Performance considerations & ForkJoinPool basics
+
+####  Scenario-Based Practice
+- Solved **10 real-time Employee Stream problems**, including:
+  - Gender-wise count & salary analysis
+  - Department-wise grouping & averages
+  - Highest/lowest & top-N salary queries
+  - Experience-based and joining-year filters
+
+🔗 **Code Link:**  
+👉 [Day 36 - Collectors](https://github.com/Ayush5304/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8Practice/src/com/CollectorsMethod)
+
 </details>
 
 ---
