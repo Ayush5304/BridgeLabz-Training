@@ -57,4 +57,5 @@ public class Employee {
         return id + " | " + name + " | " + age + " | " + gender +
                 " | " + department + " | " + yearOfJoining + " | " + salary;
     }
+
 }
