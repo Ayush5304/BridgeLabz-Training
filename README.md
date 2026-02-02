@@ -1094,7 +1094,7 @@ Solved *5 real-world systems* integrating *Collections, Generics, I/O Streams, R
 ---
 
 ### 📅 Day 36 – Collectors & Java 8 Features
-**(Date: 29-Jan-2026)**  
+**(Date: 31-Jan-2026)**  
 **Branch:** `java8-programming-practice`
 
 ####  Topics Learned
