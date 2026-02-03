@@ -1094,7 +1094,7 @@ Solved *5 real-world systems* integrating *Collections, Generics, I/O Streams, R
 ---
 
 ### 📅 Day 36 – Collectors & Java 8 Features
-**(Date: 29-Jan-2026)**  
+**(Date: 29-Jan-2026)**       
 **Branch:** `java8-programming-practice`
 
 ####  Topics Learned
@@ -1108,7 +1108,7 @@ Solved *5 real-world systems* integrating *Collections, Generics, I/O Streams, R
 - **Parallel Streams:** `parallelStream()`, `forEachOrdered()`
 - Performance considerations & ForkJoinPool basics
 
-####  Scenario-Based Practice
+#### 🔹 Scenario-Based Practice
 - Solved **10 real-time Employee Stream problems**, including:
   - Gender-wise count & salary analysis
   - Department-wise grouping & averages
@@ -1116,7 +1116,52 @@ Solved *5 real-world systems* integrating *Collections, Generics, I/O Streams, R
   - Experience-based and joining-year filters
 
 🔗 **Code Link:**  
-👉 [Day 36 - Collectors](https://github.com/Ayush5304/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8Practice/src/com/CollectorsMethod)
+👉 [Day 36 - Collectors](https://github.com/Harshal-25C/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-practice/Java8Programming/src/com/Collectors)
+
+---
+
+### 📅 Day 37 – Lambda Expressions & Stream API Scenarios(Java 8)
+**(Date: 30-Jan-2026)**        
+**Branch:** `java8-programming-practice`
+
+####  Work Done
+- Practiced **Lambda Expressions** with real-time scenarios (Student, Employee, Banking, E-Commerce)
+- Used lambdas for **sorting, filtering, calculations, validation, and threading**
+- Solved **advanced Stream API problems** on Students & Employees
+- Applied `filter`, `map`, `sorted`, `limit`, `count`, `flatMap`
+- Performed **grouping, aggregation, min/max, ranking, and partitioning**
+- Converted collections to **Map** and handled **top/bottom N queries**
+
+🔗 **Code Link:** 
+👉 [Day 37 - Java8 Scenarios](https://github.com/Ayush5304/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/scenario-based-codebase/Java8ScenarioPractice/src/com/StreamScenariosIntermediateProblems)
+
+---
+
+### 📅 Day 38 – Design Principles, GoF Patterns & Optional (Java 8)
+**Date: 31-Jan-2026)**     
+**Branch:** `java8-programming-practice`
+
+####  Design Principles Covered
+- **SOLID Principles:** SRP, OCP, LSP, ISP, DIP  
+- **Clean Code Principles:** DRY, KISS, YAGNI  
+- Focus on maintainability, scalability, and loose coupling
+
+####  GoF Design Patterns
+- **Singleton Pattern** – controlled object creation
+- **Factory Pattern** – abstraction of object instantiation
+- **Builder Pattern** – step-by-step object construction
+- **Observer Pattern** – event-based communication
+- Introduction to **UML diagrams** for pattern representation
+
+####  Java 8 – Optional Class
+- Used to eliminate `NullPointerException`
+- Practiced `of()`, `ofNullable()`, `isPresent()`, `ifPresent()`
+- Applied `orElse()`, `orElseGet()`, `orElseThrow()` for safe defaults
+- Solved real-world scenarios across **Student, Employee, Banking,
+  E-Commerce, and System utility** modules
+
+🔗 **Code Link:** 
+👉 [Day 38 - Design Patterns](https://github.com/Ayush5304/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/)
 
 </details>
 
