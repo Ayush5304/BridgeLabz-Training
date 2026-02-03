@@ -263,3 +263,97 @@ Solved **3 real-world scenario-based sorting problems**:
 👉 [day 10 - DSA Sorting Scenarios](https://github.com/Ayush5304/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DsaScenarioPractice/src/com/Day5)
 
 ---
+
+### 📅 Day 11 – Sorting Algorithms (Scenario-Based Practice)  
+**(Date: 17-Jan-2026)**      
+**Branch:** `dsa-practice`
+
+Worked on **4 real-world, scenario-based problems** applying core **sorting algorithms** to practical use cases.
+
+#### 🔹 Sorting Scenarios Implemented
+
+- **IceCreamRush** – Sorted ice cream flavors by weekly sales using **Bubble Sort**  
+  *Focus:* small dataset, simple adjacent comparisons
+
+- **SmartLibrary** – Maintained alphabetically sorted borrowed books using **Insertion Sort**  
+  *Focus:* dynamic insertion, nearly sorted data
+
+- **ArtExpo** – Managed artist registrations sorted by time using **Insertion Sort**  
+  *Focus:* real-time insertion, incremental sorting
+
+- **FleetManager** – Combined vehicle maintenance schedules using **Merge Sort**  
+  *Focus:* merging sorted sublists, scalability for large datasets
+
+🔗 **Code Links:**   
+👉 [Day 11 - Sorting Algorithm Scenarios](https://github.com/Ayush5304/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DsaScenarioPractice/src/com/Day6)
+
+---
+
+### 📅 Day 12 – Sorting Algorithms (Scenario-Based Practice)
+**(Date: 19-Jan-2026)**    
+**Branch:** `dsa-practice`
+
+#### 🔹 DSA – Scenario Based Sorting 
+Solved **3 real-world sorting problems**:
+- **EduResults** – Merge Sort (state-wise rank list from district-wise sorted data)
+- **FlashDealz** – Quick Sort (sorting products by discount for flash sales)
+- **FitnessTracker** – Bubble Sort (daily step count ranking for small groups)
+
+🔗 **Code Links:**  
+👉 [DAy 12 - Sorting Algorithm Scenarios](https://github.com/Ayush5304/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DsaScenarioPractice/src/com/Day7)
+
+---
+
+### 📅 Day 13 – DSA, Logic Building
+**(Date: 20-jan-2026)**         
+
+#### 🔹 DSA – Scenario Based Sorting `(dsa-practice)`
+Solved **3 real-world sorting problems**:
+- **MovieTime** – Insertion Sort (real-time theater showtime insertion)
+- **FoodFest** – Merge Sort (combining zone-wise footfall data)
+- **GamerZone** – Quick Sort (high-score leaderboard for large dynamic data)
+
+#### 🔹 Logical Problem `(dsa-practice)`
+- **Password Generating Key**  
+  Implemented ASCII-based string transformation with validation, filtering even ASCII values, reversing, and position-based casing.
+
+🔗 **Code Links:**  
+👉 [Day 13 - Sorting Algorithm Scenarios](https://github.com/Ayush5304/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DsaScenarioPractice/src/com/Day8)
+👉 [DSA Logical Question](https://github.com/Ayush5304/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DsaScenarioPractice/src/com/AssessmentProblems)
+
+---
+
+### 📅 Day 14 – DSA Scenarios (Sorting & Trees) 
+**(Date: 21-Jan-2026)**     
+
+#### 🔹 DSA – Sorting Scenarios `(dsa-practice)`
+Solved **2 real-world sorting problems**:
+- **TailorShop** – Insertion Sort (deadline-based order management)
+- **MedWarehouse** – Merge Sort (merging expiry-date records from branches)
+
+#### 🌳 DSA – Tree Scenarios (Binary Search Tree)
+Solved **3 BST-based scenario problems**:
+- **University Digital Record System** – Insert, delete, search, and sorted display of student records.
+- **E-Commerce Product Inventory** – SKU-based lookup, update, and sorted listing.
+- **Music App Track Organizer** – Track search, insertion, and in-order playlist display.
+
+🔗 **Code Links:**  
+👉 [day 14 - Sorting Algorithm Scenarios](https://github.com/Ayush5304/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DsaScenarioPractice/src/com/Day9)
+
+---
+
+### 📅 Day 15 – Annotations, Reflection & AVL Trees Scenarios
+**(Date: 22-Jan-2026)**                    
+**Branch:** `dsa-practice`
+
+#### 🌳 DSA – AVL Tree Scenarios 
+Solved **3 real-world AVL Tree problems**:
+
+- **Gaming App Leaderboard** – insert, update, rank, and remove players
+- **Online Ticket Booking** – manage events sorted by time
+- **Hospital Queue System** – balanced patient registration and retrieval
+
+🔗 **Code Links:**  
+👉 [Day 15 - Tree Based Scenarios](https://github.com/Ayush5304/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DsaScenarioPractice/src/com/Day10)
+
+---
