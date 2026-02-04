@@ -10,7 +10,7 @@ This repository documents my **day-wise learning journey at BridgeLabz-Training*
 
 ## 📂 Project Structure
 
-```text
+```
 BridgeLabz-Training/
 │
 ├── 📁 core-java-practice/
@@ -32,11 +32,13 @@ BridgeLabz-Training/
 │   │           └── 📁 com/
 │   │               ├── 📁 classandobject/
 │   │               ├── 📁 constructor/
+│   │               ├── 📁 keywords/
 │   │               ├── 📁 finalandstatic/
 │   │               ├── 📁 objectmodeling/
+│   │               ├── 📁 encapsulation/
 │   │               ├── 📁 inheritance/
-│   │               └── 📁 encapsulation/
-│   ├── 📁 leet-code-codebase/
+│   │               ├── 📁 abstraction/
+│   │               └── 📁 polymorphism/
 │   └── 📁 scenario-based-codebase/
 │
 ├── 📁 dsa-practice/
@@ -62,8 +64,45 @@ BridgeLabz-Training/
 │   │       └── 📁 src/
 │   │           └── 📁 com/
 │   │               ├── 📁 generics/
+│   │               ├── 📁 collections/
+│   │               ├── 📁 streams/
+│   │               ├── 📁 exceptions/
+│   │               ├── 📁 regex/
+│   │               ├── 📁 JUnit/
+│   │               ├── 📁 reflection/
+│   │               └── 📁 annotations/
 │   └── 📁 scenario-based-codebase/
 │
+├── 📁 java-iostreams-practice/
+│   ├── 📁 gcr-codebase/
+│   │   └── 📁 JavaIOStreams/
+│   │       └── 📁 src/
+│   │           └── 📁 com/
+│   │               ├── 📁 CSV Data Handling/
+|   |               └── 📁 JSON Data/
+|   └── 📁 scenario-based-codebase/
+|
+├── 📁 java8-programming-practice/
+│   ├── 📁 gcr-codebase/
+│   │   └── 📁 Java8Programming/
+│   │       └── 📁 src/
+│   │           └── 📁 com/
+│   │               ├── 📁 LamdaExpressions/
+|   |               ├── 📁 FunctionalInterfaces/
+|   |               ├── 📁 MethodReferences/
+|   |               ├── 📁 Stream API/
+|   |               └── 📁 Collectors/
+|   └── 📁 scenario-based-codebase/
+|
+├── 📁 java-design-pattern-practice/
+│   ├── 📁 gcr-codebase/
+│   │   └── 📁 JavaSolutionDesigning/
+│   │       └── 📁 src/
+│   │           └── 📁 com/
+│   │               ├── 📁 DesignPattern/
+|   |               └── 📁 Multithreading/
+|   └── 📁 scenario-based-codebase/
+|
 └── README.md
 ```
 ---
