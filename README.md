@@ -1174,8 +1174,15 @@ Solved *5 real-world systems* integrating *Collections, Generics, I/O Streams, R
 🔗 **Code Link:** 
 👉 [Day 37 - Java8 Scenarios](https://github.com/Ayush5304/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/scenario-based-codebase/Java8ScenarioPractice/src/com/StreamScenariosIntermediateProblems)
 
+</details>
+
 ---
 
+## 📘 Week 7 – Solution Designing(Progress Log) 
+
+<details>
+<summary><strong>Click to expand...👆</strong></summary>
+  
 ### 📅 Day 38 – Design Principles, GoF Patterns & Optional (Java 8)
 **Date: 31-Jan-2026)**     
 **Branch:** `java8-programming-practice`
