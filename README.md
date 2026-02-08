@@ -1294,6 +1294,7 @@ Solved **conversion-based logical problems using Java 8 Streams**, focusing on t
 
  Strengthened hands-on skills with `Collectors`, `map`, `flatMap`, and `groupingBy`
 
+🔗 **Code Link:**
 👉 [Day 41 - Stream API Logical Questions](https://github.com/Ayush5304/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/scenario-based-codebase/Java8ScenarioPractice/src/com/StreamScenariosIntermediateProblems)
 
 ---
@@ -1318,6 +1319,9 @@ Implemented a **menu-driven console application** for *StreamBuzz*, a digital co
 - User input handling and formatted output
 
  Focused on clean logic, data aggregation, and rule-based result generation
+
+🔗 **Code Link:**
+👉 [Day 42 - Logical Problem](https://github.com/Ayush5304/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DsaScenarioPractice/src/com/AssessmentProblems/StreamBuzz)
 
 </details>
 
