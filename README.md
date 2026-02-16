@@ -1459,6 +1459,75 @@ Strengthened skills in **Java streams, collections, exception handling, and clea
 
 👉 [Day 46 - Java Logical Questions](https://github.com/Ayush5304/BridgeLabz-Training/tree/mysql-jdbc-practice)
 
+---
+
+### 📅 Day 47 – Factory Robot Hazard Analyzer  
+**(Date: 11-Feb-2026)**    
+
+Developed a system to calculate **Robot Hazard Risk Score** using:
+
+####  Validations
+- Arm Precision: 0.0–1.0  
+- Worker Density: 1–20  
+- Machinery State: Worn (1.3), Faulty (2.0), Critical (3.0)  
+- Invalid inputs handled using custom `RobotSafetyException`
+
+####  Concepts Used
+Custom Exception, input validation, try-catch, logical formula implementation.
+
+👉 [Day 47 - Logical Problem](https://github.com/Ayush5304/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DsaScenarioPractice/src/com/AssessmentProblems/FactoryRobotHazardAnalyzer)
+
+---
+
+### 📅 Day 48 – AeroVigil Flight Validation System  
+**(Date: 12-Feb-2026)**      
+
+Developed an **Airline Management validation system** to verify flight details and calculate required fuel before takeoff.
+
+####  Features Implemented
+- **Flight Number Validation** → Format `FL-XXXX` (1000–9999)
+- **Flight Name Validation** → SpiceJet, Vistara, IndiGo, Air Arabia
+- **Passenger Capacity Check** → Validated against flight-specific limits
+- **Fuel Level Verification** → Ensured fuel within tank capacity
+- **Fuel Calculation** → Returned fuel required to fill the tank
+
+####  Concepts Used
+- Custom Exception (`InvalidFlightException`)
+- Input parsing using `split()`
+- Validation logic with conditional checks
+- try-catch exception handling
+- OOP-based structured design (FlightUtil, UserInterface)
+
+####  Outcome
+Improved understanding of **input validation, exception handling, business rule enforcement, and structured Java application design** aligned with assessment-level standards.
+
+---
+
+### 📅 Day 49 – Logical Practice (Collections & Strings)
+**(Date: 13-Feb-2026)** 
+
+####   Car Pro – Booking Date Filter
+Implemented a booking system using `Map<String, Date>` to store bookingId and date.  
+Created `findCabBookingIdsForTheBookingDate(Date date)` to filter IDs based on `yyyy-MM-dd` format.  
+Displayed matching bookings or “No bookings were booked”.
+
+**Concepts:** HashMap, List, Date parsing, iteration, OOP structure.
+
+####   Train Booking ID Decoder
+Decoded a 10-character alphanumeric booking ID:
+- Validate length → `Invalid Input`
+- Validate seat count (1–10) → `Invalid Count`
+- Validate seat format (Letter + 2 digits) → `Invalid Seat Number`
+- Print consecutive seat numbers if valid.
+
+**Concepts:** String manipulation, character validation, parsing, conditional logic.
+
+####  Outcome
+Improved skills in collections, date handling, string processing, and validation logic.
+
+👉 [Day 49 - Logical Problem](https://github.com/Ayush5304/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DsaScenarioPractice/src/com/AssessmentProblems/CarPro)
+
+
 </details>
 
 ---
