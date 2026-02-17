@@ -1501,6 +1501,8 @@ Developed an **Airline Management validation system** to verify flight details a
 ####  Outcome
 Improved understanding of **input validation, exception handling, business rule enforcement, and structured Java application design** aligned with assessment-level standards.
 
+👉 [Day 48- Logical Problem](https://github.com/Ayush5304/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DsaScenarioPractice/src/com/AssessmentProblems/AeroVigil)
+
 ---
 
 ### 📅 Day 49 – Logical Practice (Collections & Strings)
